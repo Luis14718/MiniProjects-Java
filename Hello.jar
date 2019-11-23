@@ -1,0 +1,36 @@
+package app;
+
+
+public class hellool {
+
+
+
+	public static void main(String[] args) {
+		String FirstAns;
+		String SecondAns;
+		
+		Scanner input = new Scanner(System.in);
+		System.out.println("knock knock:");
+	
+		FirstAns=  input.nextLine();
+		System.out.println("Boo");
+		SecondAns=   input.nextLine();
+		System.out.println("Don't cry .It's only a joke");
+
+			
+		}
+		
+		
+		
+		
+	
+		
+		
+	
+				
+		
+		
+
+	}
+
+	
