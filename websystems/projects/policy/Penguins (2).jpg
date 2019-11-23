@@ -1,0 +1,7 @@
+<br />
+<b>Warning</b>:  readfile(nea/Penguins.jpg): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\websystems\projects\download.php</b> on line <b>14</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\websystems\projects\download.php:15
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\websystems\projects\download.php</b> on line <b>15</b><br />
