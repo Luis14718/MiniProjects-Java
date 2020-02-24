@@ -1,0 +1,5 @@
+# MiniProjects-Java
+Mini Java project
+__________________________________________________________________________________________________________________
+Recomened to download 
+ife car rent.jar
